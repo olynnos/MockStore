@@ -19,11 +19,13 @@ export default function Footer() {
                   </p>
                 </div>
                 <div className="col-md-6 d-flex justify-content-around">
-                  {value.socialLinks.map(item => (
-                    <a href={item.url} key={item.id}>
-                      {item.icon}
-                    </a>
-                  ))}
+                  {value.socialLinks.map(item => {
+                    return (
+                      <a href={item.url} key={item.id}>
+                        {item.icon}
+                      </a>
+                    );
+                  })}
                 </div>
               </div>
             </div>

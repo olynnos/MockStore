@@ -4,7 +4,7 @@ import CartColumns from "./CartColumn";
 import CartList from "./CartList";
 import CartTotal from "./CartTotal";
 
-export default function Cart() {
+export default function Cart({ history }) {
   return (
     <section className="py-5">
       <div className="container">
@@ -13,7 +13,7 @@ export default function Cart() {
 
       <CartColumns />
       <CartList />
-      <CartTotal />
+      <CartTotal history={history} />
     </section>
   );
 }

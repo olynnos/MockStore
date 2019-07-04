@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MockStore/static/css/main.ec6d3a3b.chunk.css",
+    "main.js": "/MockStore/static/js/main.0a5df21b.chunk.js",
+    "main.js.map": "/MockStore/static/js/main.0a5df21b.chunk.js.map",
+    "runtime~main.js": "/MockStore/static/js/runtime~main.17c775a7.js",
+    "runtime~main.js.map": "/MockStore/static/js/runtime~main.17c775a7.js.map",
+    "static/css/2.266e55a5.chunk.css": "/MockStore/static/css/2.266e55a5.chunk.css",
+    "static/js/2.b4b85cec.chunk.js": "/MockStore/static/js/2.b4b85cec.chunk.js",
+    "static/js/2.b4b85cec.chunk.js.map": "/MockStore/static/js/2.b4b85cec.chunk.js.map",
+    "index.html": "/MockStore/index.html",
+    "precache-manifest.4f1cf83c2d74b1b368f064fa666d1ebf.js": "/MockStore/precache-manifest.4f1cf83c2d74b1b368f064fa666d1ebf.js",
+    "service-worker.js": "/MockStore/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/MockStore/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.ec6d3a3b.chunk.css.map": "/MockStore/static/css/main.ec6d3a3b.chunk.css.map",
+    "static/media/aboutBcg.jpeg": "/MockStore/static/media/aboutBcg.7709c10e.jpeg",
+    "static/media/contactBcg.jpeg": "/MockStore/static/media/contactBcg.945afb99.jpeg",
+    "static/media/defaultBcg.jpeg": "/MockStore/static/media/defaultBcg.0819a816.jpeg",
+    "static/media/logo.svg": "/MockStore/static/media/logo.2b362308.svg",
+    "static/media/mainBcg.jpeg": "/MockStore/static/media/mainBcg.984874d1.jpeg",
+    "static/media/productsBcg.jpeg": "/MockStore/static/media/productsBcg.160fddff.jpeg",
+    "static/media/singleProductBcg.jpeg": "/MockStore/static/media/singleProductBcg.96758412.jpeg",
+    "static/media/storeBcg.jpeg": "/MockStore/static/media/storeBcg.46143c2f.jpeg"
+  }
+}
